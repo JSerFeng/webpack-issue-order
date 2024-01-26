@@ -1,0 +1,7 @@
+.open {
+  color: red;
+}
+.m {
+  color: red;
+}
+head{--webpack-webpack-issue-order-shared:\.\/src\/open\.css,\.\/src\/m\.css;}

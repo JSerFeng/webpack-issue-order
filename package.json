@@ -1,0 +1,12 @@
+{
+  "name": "webpack-issue-order",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
